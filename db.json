@@ -1,0 +1,54 @@
+{
+  "vehicles": [
+    {
+      "id": "eHkz4Ll",
+      "firstName": "Tejaswini",
+      "lastName": "Rao",
+      "vehicleNo": "HYDB65684",
+      "mobileNo": "8897464376",
+      "address": "Public Gardens, Khairatabad, Hyderabad",
+      "pickupDate": "2021-04-18",
+      "returnDate": "2021-11-04"
+    },
+    {
+      "id": "LbARxmi",
+      "firstName": "Abhinav",
+      "lastName": "Naidu",
+      "vehicleNo": "DELB73498",
+      "mobileNo": "6249936893",
+      "address": "Sansad Marg, New Delhi",
+      "pickupDate": "2020-03-28",
+      "returnDate": "2020-05-14"
+    },
+    {
+      "id": "vih8OzZ",
+      "firstName": "Rohit",
+      "lastName": "Kumar",
+      "vehicleNo": "HYDT77986",
+      "mobileNo": "8899647373",
+      "address": "Kukatpully, Hyderabad",
+      "pickupDate": "2021-01-28",
+      "returnDate": "2021-03-21"
+    },
+    {
+      "id": "nk4YX-C",
+      "firstName": "Priyanka",
+      "lastName": "Ranwa",
+      "vehicleNo": "DELC40016",
+      "mobileNo": "9575637401",
+      "address": "Kasturba Gandhi Marg, New Delhi",
+      "pickupDate": "2020-12-17",
+      "returnDate": "2021-01-02"
+    },
+    {
+      "id": "wP2LwDh",
+      "firstName": "Sruthi",
+      "lastName": "Sharma",
+      "vehicleNo": "DELF15889",
+      "mobileNo": "8725872335",
+      "address": "Nehru Place, New Delhi",
+      "pickupDate": "2019-11-07",
+      "returnDate": "2019-12-06"
+    }
+  ]
+}
